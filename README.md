@@ -11,11 +11,15 @@ Welcome to the React Mini Projects repository! This repository is a collection o
 
 ## Projects
 
-Existing projects in this repository with a brief description of each.
+Existing projects in this repository: Folder: [react-mini-projects/src/components/<all-projects>] [You can also contribute any small.]
 
-1. **EMI Calculator** - Link: [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/EMICalculator)
+1. **EMI Calculator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/EMICalculator)
 
-2. **BMI Calculator** - Link: [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/BMICalcalator)
+2. **BMI Calculator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/BMICalcalator)
+
+3. **Filtering Card** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/Filter)
+
+4. **Random Color Generator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/RandomColorGenerator)
 
 ## How you can Contribute!
 
