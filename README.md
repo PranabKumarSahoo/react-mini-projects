@@ -1,6 +1,6 @@
 # React Mini Projects
 
-Welcome to the React Mini Projects repository! This repository is a collection of small and standalone React projects. Whether you're a beginner looking for hands-on practice or an experienced developer wanting to contribute, there's something for everyone.
+Welcome to the React Mini Projects repository! This repository is a collection of small and standalone React projects. Whether you're a beginner looking for hands-on practice or wanting to contribute, there's something for everyone.
 
 ## Table of Contents
 - [Projects](#projects)
@@ -13,15 +13,11 @@ Welcome to the React Mini Projects repository! This repository is a collection o
 
 Existing projects in this repository with a brief description of each.
 
-1. **EMI Calculator**
-   - Description: This project is a straightforward EMI Calculator created using React. It helps users estimate their monthly loan repayments based on the loan amount, interest rate, and tenure.
-   - Link: [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/EMICalculator)
+1. **EMI Calculator** - Link: [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/EMICalculator)
 
-2. **BMI Calculator**
-   - Description: This project is a BMI Calculator designed to help users estimate their body mass index based on their height and weight. It provides a quick and easy way to assess whether an individual is underweight, normal weight, overweight, or obese.
-   - Link: [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/BMICalcalator)
+2. **BMI Calculator** - Link: [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/BMICalcalator)
 
-## How to Contribute
+## How you can Contribute!
 
 Contributions are highly encouraged! If you'd like to contribute, here's how you can get involved:
 
