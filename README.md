@@ -2,7 +2,7 @@
 
 Welcome to the **React Mini Projects** repository! This repository is a collection of small and standalone React projects. Whether you're a beginner looking for hands-on practice or any experienced developer wants to contribute (I & You guys can also learn some valuable from those). 
 
-I warm welcome to everyone who wants to contribute & make sure to read the complete documentation bellow to understand the structure and guidelines. 
+I warm welcome to everyone who wants to contribute & make sure to read the complete documentation bellow to understand the structure and guidelines.
 
 # Getting Started ✨
 
@@ -18,15 +18,17 @@ Existing projects in this repository: Folder: [react-mini-projects/src/component
 
 4. **Random Color Generator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/RandomColorGenerator)
 
-## How you can Contribute!
+## Contribution Guidelines
 
-Contributions are highly encouraged! If you'd like to contribute, here's how you can get involved:
+I welcome contributions to enhance and grow this collection. If you're interested in contributing, please follow these guidelines:
 
-1. **Find an Issue**: Check the [Issues](https://github.com/PranabKumarSahoo/react-mini-projects/issues) section for any open issues. Comment on the issue if you're interested in working on it.
+1. Read the complete documentation to understand the structure and guidelines.
 
-2. **Create a New Project**: If you have an idea for a new mini project, feel free to create it! Follow the guidelines in the [Adding New Projects](#adding-new-projects) section.
+2. **Find an Issue**: Check the [Issues](https://github.com/PranabKumarSahoo/react-mini-projects/issues) section for any open issues. Comment on the issue if you're interested in working on it.
 
-3. **Submit a Pull Request**: Fork the repository, create a new branch, make your changes, and submit a pull request. Make sure to reference any related issues.
+3. **Create a New Project**: If you have an idea for a new mini project, feel free to create it! Follow the guidelines in the [Adding New Projects](#adding-new-projects) section.
+
+4. **Submit a Pull Request**: Fork the repository, create a new branch, make your changes, and submit a pull request. Make sure to reference any related issues.
 
 ## Adding New Projects
 
