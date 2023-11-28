@@ -4,7 +4,7 @@ Welcome to the **React Mini Projects** repository! This repository is a collecti
 
 I warm welcome to everyone who wants to contribute & make sure to read the complete documentation bellow to understand the structure and guidelines. 
 
-### Make sure to learn something and take advantages! 😉✌️
+# Getting Started ✨
 
 ## Projects
 
@@ -70,6 +70,8 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 
 A heartfelt thanks to all the contributors who help make this project better! Your contributions are greatly appreciated. Whether you find and report issues, submit pull requests, or simply provide feedback, you're making a valuable contribution to the community.
 
-#Thank you for being part of this collaborative space. Happy coding! 🌟 ❤️
+## Thank you for being part of this collaborative space. Make sure to learn something and take advantages! 😉✌️
+
+# ~Happy coding! 🌟 ❤️
 
 
