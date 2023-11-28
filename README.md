@@ -2,7 +2,9 @@
 
 Welcome to the React Mini Projects repository! This repository is a collection of small and standalone React projects. Whether you're a beginner looking for hands-on practice or any experienced developer wants to contribute (I & You guys can also learn some valuable from those). 
 
-### I warm welcoming to everyone. (Make sure to learn something and take advantages! 😉✌️)
+I warm welcome to everyone who wants to contribute & make sure to read the complete documentation bellow to understand the structure and guidelines. 
+
+### Make sure to learn something and take advantages! 😉✌️
 
 ## Projects
 
@@ -56,6 +58,8 @@ To add a new mini project to the collection, follow these steps:
    ```
 6. **Submit a Pull Request**: Go to your forked repository on GitHub and submit a pull request.
 
+7. Make sure to leave a ⭐ on the repo and **FOLLOW** if you liked the project.
+
 # That's it!✨
 
 ## License
@@ -66,6 +70,6 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 
 A heartfelt thanks to all the contributors who help make this project better! Your contributions are greatly appreciated. Whether you find and report issues, submit pull requests, or simply provide feedback, you're making a valuable contribution to the community.
 
-Thank you for being a part of this project! ❤️
+#Thank you for being part of this collaborative space. Happy coding! 🌟 ❤️
 
 
