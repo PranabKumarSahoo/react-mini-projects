@@ -64,7 +64,7 @@ To add a new mini project to the collection, follow these steps:
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. Contributions are welcomed and encouraged. By contributing to this project, you agree that your contributions will be licensed under the MIT License as well.
+This is open-source and available for everyone. Contributions are welcomed and encouraged. By contributing to this, you agree that your contributions will be licensed under the MIT License as well. 😅
 
 ## Contributions
 
