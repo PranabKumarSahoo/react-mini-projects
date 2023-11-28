@@ -58,7 +58,7 @@ To add a new mini project to the collection, follow these steps:
    ```
 6. **Submit a Pull Request**: Go to your forked repository on GitHub and submit a pull request.
 
-7. Make sure to leave a ⭐ on the repo and **FOLLOW** if you liked the project.
+7. Make sure to leave a ⭐ on this repo and **FOLLOW** if you want to collaborate. 😊
 
 # That's it!✨
 
