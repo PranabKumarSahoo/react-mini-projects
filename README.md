@@ -4,7 +4,7 @@ Welcome to the React Mini Projects repository! This repository is a collection o
 
 ## Table of Contents
 - [Projects](#projects)
-- [How to Contribute](#how-to-contribute)
+- [How You Can Contribute](#how-you-can-contribute)
 - [Adding New Projects](#adding-new-projects)
 - [Issues](#issues)
 - [License](#license)
