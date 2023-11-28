@@ -2,13 +2,6 @@
 
 Welcome to the React Mini Projects repository! This repository is a collection of small and standalone React projects. Whether you're a beginner looking for hands-on practice or wanting to contribute, there's something for everyone.
 
-## Table of Contents
-- [Projects](#projects)
-- [How You Can Contribute](#how-you-can-contribute)
-- [Adding New Projects](#adding-new-projects)
-- [Issues](#issues)
-- [License](#license)
-
 ## Projects
 
 Existing projects in this repository: Folder: [react-mini-projects/src/components/<all-projects>] [You can also contribute any small.]
