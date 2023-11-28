@@ -1,6 +1,6 @@
 # React Mini Projects
 
-Welcome to the React Mini Projects repository! This repository is a collection of small and standalone React projects. Whether you're a beginner looking for hands-on practice or any experienced developer wants to contribute (I & You can also learn some valuable from those), there's something for everyone.
+Welcome to the React Mini Projects repository! This repository is a collection of small and standalone React projects. Whether you're a beginner looking for hands-on practice or any experienced developer wants to contribute (I & You guys can also learn some valuable from those), there's something for everyone.
 
 ## Projects
 
