@@ -60,8 +60,6 @@ To add a new mini project to the collection, follow these steps:
 
 7. Make sure to leave a ⭐ on this repo and **FOLLOW** if you want to collaborate. 😊
 
-# That's it!✨
-
 ## License
 
 This is open-source and available for everyone. Contributions are welcomed and encouraged. By contributing to this, you agree that your contributions will be licensed under the MIT License as well. 😅
@@ -69,6 +67,8 @@ This is open-source and available for everyone. Contributions are welcomed and e
 ## Contributions
 
 A heartfelt thanks to all the contributors who help make this project better! Your contributions are greatly appreciated. Whether you find and report issues, submit pull requests, or simply provide feedback, you're making a valuable contribution to the community.
+
+# That's it!✨
 
 ## Thank you for being part of this collaborative space. Make sure to learn something and take advantages! 😉✌️
 
