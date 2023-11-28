@@ -58,20 +58,12 @@ To add a new mini project to the collection, follow these steps:
    ```
 6. **Submit a Pull Request**: Go to your forked repository on GitHub and submit a pull request.
 
-7. Make sure to leave a ⭐ on this repo and **FOLLOW** if you want to collaborate. 😊
-
-## License
-
-This is open-source and available for everyone. Contributions are welcomed and encouraged. By contributing to this, you agree that your contributions will be licensed under the MIT License as well. 😅
+7. Make sure to leave a ⭐ on this repo and **FOLLOW** if you want to collaborate.
 
 ## Contributions
 
-A heartfelt thanks to all the contributors who help make this project better! Your contributions are greatly appreciated. Whether you find and report issues, submit pull requests, or simply provide feedback, you're making a valuable contribution to the community.
+A heartfelt thanks to all the contributors who help make this project better! Your contributions are greatly appreciated. Whether you find and report issues, submit pull requests, or simply provide feedback, you're making a valuable contribution to the community. Again Thank you for being part of this collaborative space. Make sure to learn something and take advantages! 😉✌️
 
-# That's it!✨
+## License
 
-## Thank you for being part of this collaborative space. Make sure to learn something and take advantages! 😉✌️
-
-# ~Happy coding! 🌟 ❤️
-
-
+This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. Contributions are welcomed and encouraged. By contributing to this project, you agree that your contributions will be licensed under the MIT License as well.
