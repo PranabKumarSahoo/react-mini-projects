@@ -1,8 +1,8 @@
 import './App.css';
-import BMICalculator from './components/BMICalcalator/BMICalculator';
-import EMICalculator from './components/EMICalculator/EMICalculator';
-import FilterCard from './components/Filter/FilterCard';
-import ColorGenerator from './components/RandomColorGenerator/ColorGenerator';
+import BMICalculator from './BMICalcalator/BMICalculator';
+import EMICalculator from './EMICalculator/EMICalculator';
+import FilterCard from './Filter/FilterCard';
+import ColorGenerator from './RandomColorGenerator/ColorGenerator';
 
 function App() {
   return (
