@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# React Mini Projects
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **React Mini Projects** repository! This collection features small and standalone React projects, designed for both beginners looking for hands-on practice and experienced developers seeking to contribute and expand their skills.
 
-## Available Scripts
+# Getting Started ✨
 
-In the project directory, you can run:
+## Projects
 
-### `npm start`
+Existing projects in this repository: Folder: [react-mini-projects/src/components/<all-projects>]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **EMI Calculator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/EMICalculator)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. **BMI Calculator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/BMICalcalator)
 
-### `npm test`
+3. **Filtering Card** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/Filter)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. **Random Color Generator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/components/RandomColorGenerator)
 
-### `npm run build`
+## Contribution Guidelines
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+I welcome contributions to enhance and grow this collection. If you're interested in contributing, please follow these guidelines:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Read the complete documentation to understand the structure and guidelines.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **Find an Issue**: Check the [Issues](https://github.com/PranabKumarSahoo/react-mini-projects/issues) section for any open issues. Comment on the issue if you're interested in working on it.
 
-### `npm run eject`
+3. **Create a New Project**: If you have an idea for a new mini project, feel free to create it! Follow the guidelines in the [Adding New Projects](#adding-new-projects) section.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. **Submit a Pull Request**: Fork the repository, create a new branch, make your changes, and submit a pull request. Make sure to reference any related issues.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Adding New Projects
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+To add a new mini project to the collection, follow these steps:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. **Fork the Repository**: Click on the "Fork" button on the top right corner of this page.
 
-## Learn More
+2. **Clone your Fork**: Clone your forked repository to your local machine.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```
+   git clone https://github.com/<your-username>/react-mini-projects.git
+   ```
+   
+3. **Create a New Branch**: Create a new branch for your project.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   ```
+   git checkout -b feature/new-project
+   ```
 
-### Code Splitting
+4. **Add your Project**: Create a new directory for your project within the repository. Include all necessary files and a README.md explaining the project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+5. **Commit and Push**: Commit your changes and push them to your fork.
 
-### Analyzing the Bundle Size
+   ```
+   git add .
+   git commit -m 'Add new project: Project Name'
+   git push origin feature/new-project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+   ```
+6. **Submit a Pull Request**: Go to your forked repository on GitHub and submit a pull request.
 
-### Making a Progressive Web App
+7. Make sure to leave a ⭐ on this repo and **FOLLOW** if you want to collaborate.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contributions
 
-### Advanced Configuration
+A heartfelt thanks to all the contributors who help make this project better! Your contributions are greatly appreciated. Whether you find and report issues, submit pull requests, or simply provide feedback, you're making a valuable contribution to the community. Again Thank you for being part of this collaborative space. Make sure to learn something and take advantages! 😉✌️
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## License
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. Contributions are welcomed and encouraged. By contributing to this project, you agree that your contributions will be licensed under the MIT License as well.
