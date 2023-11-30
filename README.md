@@ -16,6 +16,8 @@ Existing projects in this repository: Folder: [react-mini-projects/src/<all-proj
 
 4. **Random Color Generator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/RandomColorGenerator)
 
+5. **GitHUb User Search** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/GitHubUserSearch)
+
 ## Contribution Guidelines
 
 I welcome contributions to enhance and grow this collection. If you're interested in contributing, please follow these guidelines:
