@@ -6,7 +6,7 @@ Welcome to the **React Mini Projects** repository! This collection features smal
 
 ## Projects
 
-Existing projects in this repository: Folder: [react-mini-projects/src/<all-projects>]
+Existing projects in this repository:
 
 1. **EMI Calculator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/EMICalculator)
 
