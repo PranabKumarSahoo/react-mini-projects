@@ -48,7 +48,7 @@ To add a new mini project to the collection, follow these steps:
    git checkout -b feature/new-project
    ```
 
-4. **Add your Project**: Create a new directory for your project within the repository. Include all necessary files and a README.md explaining the project.
+4. **Add your Project**: Create a new directory for your project within the repository. Include all necessary files and a README.md explaining the project details.
 
 5. **Commit and Push**: Commit your changes and push them to your fork.
 
