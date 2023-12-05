@@ -69,3 +69,5 @@ A heartfelt thanks to all the contributors who help make this project better! Yo
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. Contributions are welcomed and encouraged. By contributing to this project, you agree that your contributions will be licensed under the MIT License as well.
+
+# ~HappyCoding!🎓
