@@ -18,6 +18,8 @@ Existing projects in this repository:
 
 5. **GitHUb User Search** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/GitHubUserSearch)
 
+6. **Text Editor** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/TextEditor)
+
 ## Contribution Guidelines
 
 I welcome contributions to enhance and grow this collection. If you're interested in contributing, please follow these guidelines:
