@@ -4,11 +4,12 @@ import EMICalculator from './EMICalculator/EMICalculator';
 import FilterCard from './Filter/FilterCard';
 import GithubSearch from './GitHubUserSearch/GitHubSearch';
 import ColorGenerator from './RandomColorGenerator/ColorGenerator';
+import TextEditor from './TextEditor/TextEditor';
 
 function App() {
   return (
     <>
-      {/* <your-Component /> */}
+      {/* <your-component /> */}
     </>
   );
 }

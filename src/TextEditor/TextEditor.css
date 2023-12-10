@@ -1,0 +1,45 @@
+.container-fluid {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+
+.row {
+    height: 660px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.editor {
+    position: relative;
+    height: 660px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.preview {
+    position: relative;
+    height: 100%;
+    width: 40%;
+    padding: 20px;
+    overflow-y: scroll;
+}
+
+.editor-input {
+    height: 100%;
+    width: 100%;
+}
+
+.ql-syntax {
+    background-color: #3f3f3f;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+    color: #fff;
+    font-family: monospace;
+    margin: 10px 0;
+}
