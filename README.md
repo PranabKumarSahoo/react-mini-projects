@@ -6,7 +6,7 @@ Welcome to the **React Mini Projects** repository! This collection features smal
 
 ## Projects
 
-Existing projects in this repository: Folder: [react-mini-projects/src/<all-projects>]
+Existing projects in this repository:
 
 1. **EMI Calculator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/EMICalculator)
 
@@ -15,6 +15,8 @@ Existing projects in this repository: Folder: [react-mini-projects/src/<all-proj
 3. **Filtering Card** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/Filter)
 
 4. **Random Color Generator** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/RandomColorGenerator)
+
+5. **GitHUb User Search** - [Project Link](https://github.com/PranabKumarSahoo/react-mini-projects/tree/master/src/GitHubUserSearch)
 
 ## Contribution Guidelines
 
@@ -46,7 +48,7 @@ To add a new mini project to the collection, follow these steps:
    git checkout -b feature/new-project
    ```
 
-4. **Add your Project**: Create a new directory for your project within the repository. Include all necessary files and a README.md explaining the project.
+4. **Add your Project**: Create a new directory for your project within the repository. Include all necessary files and a README.md explaining the project details.
 
 5. **Commit and Push**: Commit your changes and push them to your fork.
 
@@ -67,3 +69,5 @@ A heartfelt thanks to all the contributors who help make this project better! Yo
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. Contributions are welcomed and encouraged. By contributing to this project, you agree that your contributions will be licensed under the MIT License as well.
+
+# ~HappyCoding!🎓
